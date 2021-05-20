@@ -1,3 +1,11 @@
+Projet issu de la vidéo de Traversy Media (https://www.youtube.com/watch?v=vUe91uOx7R0&t=413s). Galerie photo avec Recat et Firebase. 
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
